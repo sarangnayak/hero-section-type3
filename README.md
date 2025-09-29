@@ -17,3 +17,13 @@ Vanilla JavaScript
 GSAP (GreenSock Animation Platform)
 Font Awesome Icons
 Google Fonts
+
+🚀 Quick Start
+# Clone the repository
+git clone https://github.com/sarangnayak/hero-section-type3
+
+# Navigate to project directory
+cd hero-section-type3
+
+# Open in browser
+open index.html
