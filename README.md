@@ -1,4 +1,5 @@
 # hero-section-type3
+![Hero Section Type 3 Preview](images/preview.png)
 Hero Section Type 3
 A modern, responsive hero section with dynamic text animations and smooth scrolling effects.
 Live Demo: https://sarangnayak.github.io/hero-section-type3/
