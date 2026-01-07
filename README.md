@@ -17,7 +17,6 @@ CSS3 with CSS Variables
 Vanilla JavaScript
 GSAP (GreenSock Animation Platform)
 Font Awesome Icons
-Google Fonts
 
 🚀 Quick Start
 # Clone the repository
